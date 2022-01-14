@@ -47,7 +47,7 @@ int main () {
 
     scanf("%d", &i);
     resultado = Selection(a, i, MAX);
-    printf("%d", resultado);
+    printf("\n%d", resultado);
 
 
 
