@@ -31,7 +31,7 @@ void mergeSort(int* array1, int size){
     for(int i = 0; i < size; i++){ array1[i] = temp[i]; }
 }
 
-int Selection(int* array1, int i, int size){
+int select(int* array1, int i, int size){
     mergeSort(array1, size);
     return array1[i-1]; 
 }
@@ -46,7 +46,7 @@ int main () {
     }
 
     scanf("%d", &i);
-    resultado = Selection(a, i, MAX);
+    resultado = select(a, i, MAX);
     printf("\n%d", resultado);
 
 
