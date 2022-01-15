@@ -1,4 +1,4 @@
-//Programa para selecionar o i-ésimo menor elemento dentro de uma sequência de inteiros após serem ordenados pelo MergeSort.
+//Programa para selecionar o i-ésimo menor elemento dentro de uma sequência de inteiros após ela ser ordenada pelo algoritmo MergeSort.
 
 #include <stdio.h>
 #include <stdlib.h>
