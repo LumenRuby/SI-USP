@@ -1,5 +1,5 @@
 //Programa que seleciona o i-ésimo menor elemento de uma sequência de inteiros utilizando um raciocínio parecido com o do algorimo QuickSort, porém ele só ordena as partes
-//necessárias do conjunto para que se chegue no número desejado.
+//necessárias do conjunto para que se chegue no número desejado pelo usuário.
 
 #include <stdio.h>
 #include <stdlib.h>
